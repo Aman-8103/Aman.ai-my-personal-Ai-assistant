@@ -6,8 +6,8 @@ A full-stack multi-turn LLM chatbot built with **React**, **FastAPI**, **LiteLLM
 
 ## 1. Live URLs
 
-- **Frontend:** `<your-deployed-frontend-url>` *(deploy `/frontend` to Vercel, Netlify, or Cloudflare Pages with `VITE_API_BASE_URL` pointing to the backend)*
-- **Backend:** `<your-deployed-backend-url>` *(deploy `/backend` to Render, Railway, or Fly.io with a persistent `/data` volume)*
+- **Frontend:** `https://aman-ai-chat.vercel.app` *(deploy `/frontend` to Vercel, Netlify, or Cloudflare Pages with `VITE_API_BASE_URL` pointing to the backend)*
+- **Backend:** `https://aman-ai-my-personal-ai-assistant.onrender.com/` *(deploy `/backend` to Render, Railway, or Fly.io with a persistent `/data` volume)*
 
 ---
 
